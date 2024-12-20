@@ -4,7 +4,7 @@ This Repository contains some of interesting Machine Learning projects.
 ## 🔍 Email_Spam_classifier
 
 - This project demonstrates a **Spam Detection Model** using Python and Machine Learning techniques. The model classifies messages as `Spam` or `Not Spam` based on their content. <a href="https://github.com/subh-775/Machine-Learning-Hub/tree/main/Email_Spam_classifier">click here to know more</a>
-- You can use the model availabe on HuggingFace at<a href="https://huggingface.co/spaces/Subh775/SpamDetectAI">Here</a>
+- You can use the model availabe on HuggingFace at <a href="https://huggingface.co/spaces/Subh775/SpamDetectAI">Here</a>
 
 
 ## 📜 License
